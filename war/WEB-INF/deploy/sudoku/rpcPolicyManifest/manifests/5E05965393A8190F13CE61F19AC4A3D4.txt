@@ -1,0 +1,2 @@
+serviceClass: com.prakhar.sudoku.client.GreetingService
+path: 3A08E027B0BD433677733B87AC57D827.gwt.rpc
